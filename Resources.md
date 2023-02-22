@@ -11,7 +11,7 @@
 # Booking system
 
 [SimplyBook](https://simplybook.me/en/)
-[Setmore](https://www.setmore.com/) Free booking system with facebook intergration, [[Notes on Setmore]]
+[Setmore](https://www.setmore.com/) Free booking system with facebook intergration
 
 # Generators
 
