@@ -16,7 +16,7 @@ assignees: ''
 - ??? min: **Deep Dive** (optional)
 - 5 min: **Evaluation**
 
-Attendees: @Brianmanden , @rwjdk , @GamesByNemiz , @DanielVidarHolm 
+Attendees: @Brianmanden , @rwjdk , @GamesByNemiz , @DanielVidarHolm
 
 ## Roundtable
 
